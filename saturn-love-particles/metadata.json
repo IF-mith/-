@@ -1,0 +1,8 @@
+{
+  "name": "Saturn Love Particles",
+  "description": "A real-time interactive 3D particle system shaped like Saturn. Control the expansion and contraction of the particles using hand gestures (Open/Closed). Features AI-generated romantic phrases.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
